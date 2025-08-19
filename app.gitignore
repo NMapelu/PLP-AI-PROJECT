@@ -1,0 +1,12 @@
+# Ignore Maven target and cache
+target/
+.m2/
+
+# Ignore IDE settings
+*.iml
+.idea/
+.vscode/
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
